@@ -1,4 +1,4 @@
-# AuthorshipClassification
+# Authorship Classification
 In this study, I devised a methodology grounded in word co-occurrence networks and word embeddings to facilitate authorship attribution of English literary books through a network-based approach.
 
 ## Datasets
