@@ -2,14 +2,7 @@
 In this study, I devised a methodology grounded in word co-occurrence networks and word embeddings to facilitate authorship attribution of English literary books through a network-based approach.
 
 ## Datasets
-aa
-The list of books is shown in Tables S1
-
-The following authors were considered: Hector Hugh, Thomas Hardy, Daniel Defoe, Allan Poe, Bram Stoker, Mark Twain, Charles Dickens, Pelham Grenville, Charles Darwin, Arthur Doyle, George Eliot, Jane Austen, and Joseph Conrad.
-
-6 libros x 13 autores : 78 libros
-
-In our previous work~\cite{QUISPE2021125344}, we developed a word co-occurrence network-based methodology for authorship attribution, where we analyzed literary books of varying sizes. 
+For the purpose of authorship classification, I utilized a dataset encompassing 78 English books, with each of the 13 authors contributing 6 books. The selected authors for this study were Hector Hugh, Thomas Hardy, Daniel Defoe, Allan Poe, Bram Stoker, Mark Twain, Charles Dickens, Pelham Grenville, Charles Darwin, Arthur Doyle, George Eliot, Jane Austen, and Joseph Conrad. Below is a table that displays various authors along with their respective books, which were considered for assembling this dataset.
 
 Hector Hugh | Thomas Hardy  | Daniel Defoe | Allan Poe |
 |---- | ---- | --- | --- |
