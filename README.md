@@ -6,7 +6,7 @@ aa
 
 ## Methodology
 
-![aa](network_example.png)
+<img src="network_example.png" width="400" height="400">
 
 ## Main results
 aa
