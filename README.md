@@ -5,10 +5,7 @@ In this study, I devised a methodology grounded in word co-occurrence networks a
 aa
 The list of books is shown in Tables S1
 
-The following authors were considered: Hector Hugh (HH),
-Thomas Hardy (TH), Daniel Defoe (DD), Allan Poe (AP), Bram Stoker (BS), Mark Twain
-(MT), Charles Dickens (CD), Pelham Grenville (PG), Charles Darwin (CD), Arthur Doyle
-(AD), George Eliot (GE), Jane Austen (JA), and Joseph Conrad (JC)
+The following authors were considered: Hector Hugh, Thomas Hardy, Daniel Defoe, Allan Poe, Bram Stoker, Mark Twain, Charles Dickens, Pelham Grenville, Charles Darwin, Arthur Doyle, George Eliot, Jane Austen, and Joseph Conrad.
 
 6 libros x 13 autores : 78 libros
 
