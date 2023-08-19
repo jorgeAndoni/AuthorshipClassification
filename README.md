@@ -27,8 +27,7 @@ technique could be used to gauge the similarity between nodes.
 discriminate co-occurrence from virtual edges to compute the network metrics.
 - **Pattern classification**: once features are extracted from complex networks, they are used in pattern classification methods. This might include supervised, unsupervised and semi-supervised classification. 
 
-
-
+In the following figure I show an example of a enriched word co-occurrence network created for a text:
 <img src="network_example.png" width="400" height="400">
 
 ## Main results
