@@ -20,6 +20,13 @@ Hector Hugh | Thomas Hardy  | Daniel Defoe | Allan Poe |
 | The Unbearable Bassington   | A Changed Man  | Colonel Jack  |  The Works of Edgar Allan Poe - V2 
 |  Beasts and Super-Beasts  | Jude the Obscure  | The Fortunate Mistress |  The Works of Edgar Allan Poe - V3 
 
+Bram Stoker |  Mark Twain  | Charles Dickens | Pelham Grenville |
+|---- | ---- | --- | --- |
+| A  | B  | C |  D
+| A  | B  | C |  D
+| A  | B  | C |  D
+
+
  
 
 ## Methodology
