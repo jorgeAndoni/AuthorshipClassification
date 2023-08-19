@@ -16,9 +16,9 @@ In our previous work~\cite{QUISPE2021125344}, we developed a word co-occurrence 
 
 Hector Hugh | Thomas Hardy  | Daniel Defoe | Allan Poe |
 |---- | ---- | --- | --- |
-| The Toys of Peace  | A Pair of Blue Eyes  | Memoirs of a Cavalier | Libro 1
-| The Unbearable Bassington   | A Changed Man  | Colonel Jack  | Libro 2
-|  Beasts and Super-Beasts  | Jude the Obscure  | The Fortunate Mistress | Libro 3
+| The Toys of Peace  | A Pair of Blue Eyes  | Memoirs of a Cavalier |  The Works of Edgar Allan Poe - V1 
+| The Unbearable Bassington   | A Changed Man  | Colonel Jack  |  The Works of Edgar Allan Poe - V2 
+|  Beasts and Super-Beasts  | Jude the Obscure  | The Fortunate Mistress |  The Works of Edgar Allan Poe - V3 
 
  
 
