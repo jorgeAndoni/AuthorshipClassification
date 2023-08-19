@@ -5,7 +5,8 @@ Book classification for English books using complex networks and word embeddings
 aa
 
 ## Methodology
-aa
+
+![aa](network_example.png)
 
 ## Main results
 aa
