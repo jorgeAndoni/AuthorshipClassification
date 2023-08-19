@@ -22,9 +22,9 @@ Hector Hugh | Thomas Hardy  | Daniel Defoe | Allan Poe |
 
 Bram Stoker |  Mark Twain  | Charles Dickens | Pelham Grenville |
 |---- | ---- | --- | --- |
-| A  | B  | C |  D
-| A  | B  | C |  D
-| A  | B  | C |  D
+| The Lady of the Shroud  | Life on the Mississippi |  Oliver Twist |   My Man Jeeves
+| The Mystery of the Sea | The Prince and the Pauper | David Copperfield |  The Clicking of Cuthbert 
+| The Man | The Innocents Abroad | A Tale of Two Cities  | The Man with Two Left Feet 
 
 
  
