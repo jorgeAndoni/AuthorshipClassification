@@ -31,6 +31,9 @@ In the following figure I show an example of a enriched word co-occurrence netwo
 <img src="network_example.png" width="400" height="300">
 
 ## Main results
+In the following table I show a summary of the best results obtained in this work. For each document
+length I show the highest accuracy rate obtained, the relative gain obtained with the proposed approach and the embedding method yielding the highest accuracy rate: GloVe (GL), Word2Vec (W2V) or FastText (FT). All the results below were obtained when stopwords were used and the SVM was used as classification method.
+
 <img src="ac_results.png" width="400" height="200">
 
 ## References
