@@ -28,10 +28,10 @@ discriminate co-occurrence from virtual edges to compute the network metrics.
 - **Pattern classification**: once features are extracted from complex networks, they are used in pattern classification methods. This might include supervised, unsupervised and semi-supervised classification. 
 
 In the following figure I show an example of a enriched word co-occurrence network created for a text:
-<img src="network_example.png" width="400" height="400">
+<img src="network_example.png" width="400" height="300">
 
 ## Main results
-aa
+<img src="ac_results.png" width="400" height="200">
 
 ## References
 [Using virtual edges to improve the discriminability of co-occurrence text networks](https://www.sciencedirect.com/science/article/pii/S037843712030707X). LVC Quispe, JAV Tohalino, DR Amancio. Physica A: Statistical Mechanics and its Applications 562, 125344
