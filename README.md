@@ -16,10 +16,18 @@ Bram Stoker |  Mark Twain  | Charles Dickens | Pelham Grenville |
 | The Mystery of the Sea | The Prince and the Pauper | David Copperfield |  The Clicking of Cuthbert 
 | The Man | The Innocents Abroad | A Tale of Two Cities  | The Man with Two Left Feet 
 
-
- 
-
 ## Methodology
+The methodology used in this work encompasses the following steps:
+- **Network construction**: here texts are mapped into a co-occurrence networks. Some variations exists in the literature, however here I focused in the most usual variation, i.e. the possibility of considering or disregarding stopwords. A network with co-occurrence links is obtained after this step.
+- **Network enrichment**: in this step, the network is enriched with virtual edges established via similarity of word
+embeddings. After this step, we are given a complete network with weighted links. Virtually, any embedding
+technique could be used to gauge the similarity between nodes.
+- **Network filtering**: in order to eliminate spurious links included in the last step, the weakest edges are filtered The outcome of this network filtering step is a network with two types of links: co-occurrence and virtual links.
+- **Feature extraction**: In this step, topological and dynamical network features are extracted. Here, we do not
+discriminate co-occurrence from virtual edges to compute the network metrics.
+- **Pattern classification**: once features are extracted from complex networks, they are used in pattern classification methods. This might include supervised, unsupervised and semi-supervised classification. 
+
+
 
 <img src="network_example.png" width="400" height="400">
 
