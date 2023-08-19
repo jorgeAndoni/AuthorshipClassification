@@ -14,6 +14,14 @@ Thomas Hardy (TH), Daniel Defoe (DD), Allan Poe (AP), Bram Stoker (BS), Mark Twa
 
 In our previous work~\cite{QUISPE2021125344}, we developed a word co-occurrence network-based methodology for authorship attribution, where we analyzed literary books of varying sizes. 
 
+Hector Hugh | Thomas Hardy  | Daniel Defoe | Allan Poe |
+|---- | ---- | --- | --- |
+| The Toys of Peace  | Libro 1  | Libro 1 | Libro 1
+| The Unbearable Bassington   | Libro 2  | Libro 2 | Libro 2
+|  Beasts and Super-Beasts  | Libro 3  | Libro 3 | Libro 3
+
+ 
+
 ## Methodology
 
 <img src="network_example.png" width="400" height="400">
